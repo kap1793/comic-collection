@@ -76,6 +76,7 @@
   background-color: #0F4C81;
   color: white;
   transform: rotateY(180deg);
+  overflow: scroll;           
 }
 .comicCoverArt {
   width: 100%;
