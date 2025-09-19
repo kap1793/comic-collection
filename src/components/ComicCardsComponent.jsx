@@ -1,4 +1,4 @@
-import comics from "./comics.js";
+import comics from "../comics.js";
 
 function ComicCards() {
     return (
