@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import ComicCards from './components/ComicCardsComponent.jsx';
-import './App.css';
+import './style/App.css';
 import NavBar from "./components/NavBarComponent.jsx";
 
 function App() {
