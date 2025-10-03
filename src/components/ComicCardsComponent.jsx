@@ -1,4 +1,5 @@
 import comics from "../comics.js";
+import '../style/comicCardStyle.css';
 
 function ComicCards() {
     return (
